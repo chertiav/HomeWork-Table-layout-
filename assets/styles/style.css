@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 300vh;
+}
+
+table {
+    display: inline-block;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+}
+
+caption{
+    font-size: 20px;
+    text-align: left;
+    margin: 10px auto; 
+}
+
+tr, th, td {
+    border: 3px solid blue;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+td{
+    text-align: left;
+}
+
+
+
+
+
